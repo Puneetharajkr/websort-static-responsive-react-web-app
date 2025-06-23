@@ -50,29 +50,8 @@ https://websort-static-responsive-react-web.vercel.app/
  Footer with Link Integration
 
 # Folder Structure
-cimo-website/
-├── public/
-│   └── favicon.svg                    # Site icon
-├── src/
-│   ├── assets/                        # Image assets
-│   │   ├── hero-bg.jpg
-│   │   ├── ai-iot.jpg
-│   │   ├── uiux-mobile.jpg
-│   │   └── web-dev.jpg
-│   ├── components/                   # React components
-│   │   ├── Header.jsx
-│   │   ├── Hero.jsx
-│   │   ├── Features.jsx
-│   │   ├── About.jsx
-│   │   ├── Showcase.jsx
-│   │   ├── Contact.jsx
-│   │   └── Footer.jsx
-│   ├── App.jsx                        # Main App component
-│   ├── index.css                      # Global styles
-│   └── main.jsx                       # App entry point
-├── vite.config.js                     # Vite configuration
-├── package.json                       # Project metadata & dependencies
-└── README.md                          # Project documentation
+![image](https://github.com/user-attachments/assets/6b7f95d8-6553-4792-a3df-74be9ed924f8)
+
 
 
 # Sections Overview
