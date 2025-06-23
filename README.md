@@ -85,6 +85,8 @@ npm run dev
 
 
 # 📸 Screenshots
+## Project Demo video: https://drive.google.com/file/d/1GGkM9mqPdH8R21XOP9QN3VINU5D5rj2C/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/c15035cf-b92c-454f-b407-80cd6d8bb109)
 
 ![image](https://github.com/user-attachments/assets/39202598-8546-40e3-83c4-0e761b15a448)
